@@ -1,0 +1,7 @@
+C:\Users\A\Desktop\BootCamp\UniversityGradingSystem\UniversityGradingSystem\bin\Debug\UniversityGradingSystem.exe.config
+C:\Users\A\Desktop\BootCamp\UniversityGradingSystem\UniversityGradingSystem\bin\Debug\UniversityGradingSystem.exe
+C:\Users\A\Desktop\BootCamp\UniversityGradingSystem\UniversityGradingSystem\bin\Debug\UniversityGradingSystem.pdb
+C:\Users\A\Desktop\BootCamp\UniversityGradingSystem\UniversityGradingSystem\obj\Debug\UniversityGradingSystem.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\BootCamp\UniversityGradingSystem\UniversityGradingSystem\obj\Debug\UniversityGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\BootCamp\UniversityGradingSystem\UniversityGradingSystem\obj\Debug\UniversityGradingSystem.exe
+C:\Users\A\Desktop\BootCamp\UniversityGradingSystem\UniversityGradingSystem\obj\Debug\UniversityGradingSystem.pdb
